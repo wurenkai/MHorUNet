@@ -21,7 +21,7 @@ For training and evaluating on ISIC 2018 and pH2 follow the bellow steps: :</br>
 python train.py
 ```
 - After trianing, you could obtain the outputs in './results/'
-- 
+
 **3. Test the MHorUNet.**
 First, in the test.py file, you should change the address of the checkpoint in 'resume_model' and fill in the location of the test data in 'data_path'.
 ```
