@@ -30,5 +30,6 @@ python test.py
 - After testing, you could obtain the outputs in './results/'
 
 ## References
-
+- [HorNet](https://github.com/raoyongming/HorNet)
+- [MALUNet](https://github.com/JCruan519/MALUNet)
 ---
