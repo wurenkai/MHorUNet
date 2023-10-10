@@ -1,6 +1,6 @@
 <div id="top" align="center">
 
-# MHorUNet 
+# MHorUNet
 **MHorUNet:High-order Spatial Interaction UNet for Skin Lesion Segmentation**
   [[paper link]](https://doi.org/10.1016/j.bspc.2023.105517)
   
@@ -12,9 +12,6 @@
 - python 3.8
 - pytorch 1.8.0
 - torchvision 0.9.0
-
-![image](https://github.com/wurenkai/MHorUNet/assets/124028634/97842cc1-86fb-4a23-82b3-55166f06cbba)
-
 
 **1. Prepare the dataset.**
 
