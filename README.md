@@ -6,7 +6,7 @@
   
   Renkai Wu, Pengchen Liang, Xuan Huang, Liu Shi, Yuandong Gu, Haiqin Zhu*, Qing Chang*
 
-<img src="./img/image.tif" width="100%" alt="overview" align=center />
+<img src="./img/image.png" width="100%" alt="image" align=center />
 
 </div>
 
