@@ -6,10 +6,8 @@
   
   Renkai Wu, Pengchen Liang, Xuan Huang, Liu Shi, Yuandong Gu, Haiqin Zhu*, Qing Chang*
 
-![image](https://github.com/wurenkai/MHorUNet/assets/124028634/ad6857af-82b2-472a-869b-060e5de93079)
-
-
 </div>
+![model](https://github.com/wurenkai/MHorUNet/assets/124028634/d683aae0-c24c-49e5-976a-a8523832b6de)
 
 
 **0. Main Environments**
