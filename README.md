@@ -13,9 +13,6 @@
 - pytorch 1.8.0
 - torchvision 0.9.0
 
-![model](https://github.com/wurenkai/MHorUNet/assets/124028634/9a544fab-3df7-4ad0-9064-ad4dae506cd4)
-
-
 ![image](https://github.com/wurenkai/MHorUNet/assets/124028634/97842cc1-86fb-4a23-82b3-55166f06cbba)
 
 
