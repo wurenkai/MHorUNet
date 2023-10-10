@@ -12,8 +12,11 @@
 - python 3.8
 - pytorch 1.8.0
 - torchvision 0.9.0
+![image](https://github.com/wurenkai/MHorUNet/assets/124028634/da9249e9-fef0-4938-9db3-86fc524471e7)
 
 ![model](https://github.com/wurenkai/MHorUNet/assets/124028634/9a544fab-3df7-4ad0-9064-ad4dae506cd4)
+
+
 
 
 **1. Prepare the dataset.**
