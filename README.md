@@ -7,13 +7,14 @@
   Renkai Wu, Pengchen Liang, Xuan Huang, Liu Shi, Yuandong Gu, Haiqin Zhu*, Qing Chang*
 
 </div>
-![model](https://github.com/wurenkai/MHorUNet/assets/124028634/d683aae0-c24c-49e5-976a-a8523832b6de)
-
 
 **0. Main Environments**
 - python 3.8
 - pytorch 1.8.0
 - torchvision 0.9.0
+
+![model](https://github.com/wurenkai/MHorUNet/assets/124028634/9a544fab-3df7-4ad0-9064-ad4dae506cd4)
+
 
 **1. Prepare the dataset.**
 
