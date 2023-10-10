@@ -8,6 +8,9 @@
 
 </div>
 
+## IMAGE
+<img src="./img/image.png" width="100%" alt="image" align=center />
+
 **0. Main Environments**
 - python 3.8
 - pytorch 1.8.0
