@@ -6,7 +6,8 @@
   
   Renkai Wu, Pengchen Liang, Xuan Huang, Liu Shi, Yuandong Gu, Haiqin Zhu*, Qing Chang*
 
-<img src="./img/image.png" width="100%" alt="image" align=center />
+![image](https://github.com/wurenkai/MHorUNet/assets/124028634/ad6857af-82b2-472a-869b-060e5de93079)
+
 
 </div>
 
