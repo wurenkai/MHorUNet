@@ -1,5 +1,14 @@
-# MHorUNet
-This is the official code repository for "MHorUNet:High-order Spatial Interaction UNet for Skin Lesion Segmentation", 
+<div id="top" align="center">
+
+# MHorUNet 
+**MHorUNet:High-order Spatial Interaction UNet for Skin Lesion Segmentation**
+  [[paper link]](https://doi.org/10.1016/j.bspc.2023.105517)
+  
+  Renkai Wu, Pengchen Liang, Xuan Huang, Liu Shi, Yuandong Gu, Haiqin Zhu*, Qing Chang*
+
+  
+</div>
+
 
 **0. Main Environments**
 - python 3.8
