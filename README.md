@@ -36,6 +36,20 @@ python test.py
 ```
 - After testing, you could obtain the outputs in './results/'
 
+## Citation
+If you find this repository helpful, please consider citing:
+```
+@article{wu2024mhorunet,
+  title={MHorUNet: High-order spatial interaction UNet for skin lesion segmentation},
+  author={Wu, Renkai and Liang, Pengchen and Huang, Xuan and Shi, Liu and Gu, Yuandong and Zhu, Haiqin and Chang, Qing},
+  journal={Biomedical Signal Processing and Control},
+  volume={88},
+  pages={105517},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
 ## References
 - [HorNet](https://github.com/raoyongming/HorNet)
 - [MALUNet](https://github.com/JCruan519/MALUNet)
